@@ -1,5 +1,5 @@
 # Projet-NSI-Jeu-DE
-Projet de NSI 1ère, un jeu de dé, où il faut trouver la somme de deux dés qui sont générés par le programme.
+Projet de NSI 1ère en python, un jeu de dé, où il faut trouver la somme de deux dés qui sont générés par le programme.
 
 # WARNING
 Le fichier n'est pas vérifiée sur windows (ou autre), malheureusement, je ne peut pas le faire.
