@@ -1,12 +1,47 @@
-# Projet-NSI-Jeu-DE
-Projet de NSI 1ère en python, un jeu de dé, où il faut trouver la somme de deux dés qui sont générés par le programme.
+# 🎲 Projet NSI - Jeu de dés
 
-# WARNING
-Le fichier n'est pas vérifiée sur windows (ou autre), malheureusement, je ne peut pas le faire.
-Donc pour ouvrir le fichier, faite "éxécuter quand même".
+Projet réalisé en spécialité NSI en classe de première.
+Le but du jeu est de retrouver la somme de deux dés générés aléatoirement par le programme.
 
-# Comment jouer ?
+## 🎯 Objectif du projet
 
-Téléchargez la release (la même chose que l'option du dessous).
-Ou téléchargez le fichier JeuDé.exe dans le dossier dist.
-Ou alors téléchargez tous les fichiers en .py et vous pouvez compilez vous même.
+Ce projet a pour objectif de mettre en pratique plusieurs notions de programmation Python :
+- génération de nombres aléatoires ;
+- utilisation de variables ;
+- gestion des entrées utilisateur ;
+- conditions ;
+- logique de jeu.
+
+## 🛠️ Technologies utilisées
+
+- Python
+
+## 🎮 Fonctionnement
+
+Le programme génère aléatoirement deux dés puis calcule leur somme.
+Le joueur doit ensuite proposer la valeur correspondante.
+
+## 📦 Installation
+
+Plusieurs possibilités :
+
+### Option 1 : Version exécutable
+Téléchargez la dernière version disponible dans la section **Releases**.
+
+### Option 2 : Lancer depuis les fichiers sources
+Téléchargez le fichier Python puis exécutez-le avec Python installé sur votre ordinateur.
+
+## ⚠️ Informations importantes
+
+Le fichier exécutable `.exe` n'a pas pu être testé sur toutes les plateformes.
+Windows peut afficher un avertissement de sécurité lors de son ouverture.
+
+Ce programme ne collecte aucune donnée utilisateur.
+
+## 📚 Compétences développées
+
+Ce projet m'a permis de travailler :
+- la programmation Python ;
+- la logique algorithmique ;
+- la création d'un petit programme autonome ;
+- la distribution d'une application.
